@@ -1,0 +1,8 @@
+.board{
+    position: relative;
+    border: 2px solid orange;
+    width: 40%;
+    min-height: 80%;
+    left: 25%;
+    top: 10%
+}
